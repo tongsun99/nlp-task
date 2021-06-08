@@ -26,6 +26,7 @@
 * Seq2SeqForTranslation_concat.ipynb    使用concat计算注意力 notebook
 
   (Open in Colab可直接运行代码)
+* simheittf.zip    matplotlib使用中文字体
 
 ## 效果展示
 

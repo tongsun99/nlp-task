@@ -6,6 +6,8 @@
 
 英文 -> 中文
 
+项目地址: [stfromnjust/nlp-task (github.com)](https://github.com/stfromnjust/nlp-task)
+
 ## 环境
 
 | 语言     | **Python  3.7**                    |

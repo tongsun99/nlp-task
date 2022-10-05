@@ -32,4 +32,4 @@
 
 ## 效果展示
 
-<img src="https://i.loli.net/2021/06/08/wJhdrZpbMYFRmPH.png" alt="120.png" style="zoom:67%;" />
+<img src="https://i.loli.net/2021/06/08/wJhdrZpbMYFRmPH.png" alt="120.png" style="zoom:50%;" />
